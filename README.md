@@ -1,5 +1,4 @@
-Rossman Prediction Challenge
-Mohammad & Tomek
+
 
 Model:
 XGBoost
